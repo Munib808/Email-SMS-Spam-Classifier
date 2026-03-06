@@ -1,4 +1,4 @@
-# SMS-Spam-Classifier
+# Email/SMS-Spam-Classifier
 ### Live App : https://sms-spam-classification-app.streamlit.app/
 # Email/SMS Spam Classifier
 
