@@ -23,12 +23,12 @@ This project involves building a text classification model trained on a dataset 
 - **Model:** Multinomial Naive Bayes (chosen for its high precision in text classification).
 - **Vectorization:** TF-IDF Vectorizer with `max_features=3000`.
 
-## 🖥️ How to Run
+## How to Run
 1. Clone the repository.
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the Streamlit app: `streamlit run app.py`
 
-## 📈 Model Performance
+## Model Performance
 | Algorithm | Accuracy | Precision |
 | :--- | :--- | :--- |
 | **Multinomial Naive Bayes** | ~97% | 1.00 |
